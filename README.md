@@ -20,7 +20,7 @@ This is the frontend repository for the NFT Minting Platform built using Vue.js.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/mylibrari/yeager-web-frontend.git
+git clone https://github.com/logiccon/nft-minting-portal
 cd yeager-web-frontend
 ```
 Note: Clone the .env.example as .env and add your variables
